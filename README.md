@@ -7,6 +7,8 @@ This dataset is sourced from Kaggle and it contains the salary information of al
 Dataset Link:
 https://www.kaggle.com/cityofLA/city-payroll-data
 
+A subset of the dataset after cleaning process is provided in payroll2013.csv 
+
 ### Objectives:
 * * * 
 1.To identify the civil job or department that has positions offering below median salary. i.e. Insufficient salary 
@@ -24,4 +26,6 @@ This is performed in the file prep.R
 The next phase consists of exploratory data analysis followed by data visualisation. This summarises the key features and provides an overall view of the data.
 
 Final phase includes the model building part and prediciton of values. This is provided in pred.R.
+
+The overall workflow with code is provided in Final Summary.Rmd
 
